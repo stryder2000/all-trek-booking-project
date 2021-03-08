@@ -1,0 +1,20 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.formatOnSave": true
+  },
+  "prettier.trailingComma": "none",
+  "prettier.tabWidth": 4,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "prettier.bracketSpacing": true,
+  "editor.fontSize": 16,
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "editor.wordWrap": "on",
+}
